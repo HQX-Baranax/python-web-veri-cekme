@@ -4,3 +4,5 @@ html ile yazılmış bir web sitesinden python ile veri çekip not defterine yaz
 Local ağda bulunan web sitesinden python BeautifulSoup kütüphanesi kullanarak veri çekiyor ve verileri txt uzantılı dosyaya yazdırıyor.
 
 TXT Dosyasının Adı: "veri.py"
+
+Not: txt dosyası otomatik olarak oluşturuluyor
