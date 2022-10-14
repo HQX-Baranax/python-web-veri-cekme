@@ -1,8 +1,12 @@
-body {
-    background-color: lightblue;
+table.tb1{
+    background-color:greenyellow;
+    border: 1px blue;
+    border-spacing: 10px;
+}
+tr.tr1{
+    background-color: white;
 }
 
-p{
-    color: darkcyan;
+div.div1{
+    background-color: greenyellow;
 }
-  
